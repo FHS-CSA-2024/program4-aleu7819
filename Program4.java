@@ -10,6 +10,10 @@ int number2 = 821;
 int number3 = 369;
 int number4 = 562;
 
+
+//Actually get user input here
+//   Use a scanner
+        
 // store sum in 5th variable
 int sum = number1+number2+number3+number4;
 
